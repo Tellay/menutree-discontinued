@@ -53,7 +53,7 @@ export async function Header() {
         </div>
 
         <Button className="lg:hidden" variant={'link'} size={'icon'}>
-          <MenuIcon className="h-6 w-6 text-black/80" />
+          <MenuIcon className="h-6 w-6 text-black" />
         </Button>
       </div>
     </header>
