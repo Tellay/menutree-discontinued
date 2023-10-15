@@ -12,7 +12,7 @@ export async function Header() {
   ]
 
   return (
-    <header className="flex items-center justify-between rounded-full bg-white px-6 py-3 shadow-lg shadow-black/20 md:px-12">
+    <header className="sticky inset-4 z-50 flex items-center justify-between rounded-full bg-white px-6 py-3 shadow-lg shadow-black/20 md:px-12">
       <div className="flex items-center">
         <Link
           className="mr-8 text-xl font-black text-black/80 md:text-2xl"
