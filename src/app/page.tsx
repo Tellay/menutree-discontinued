@@ -57,7 +57,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="bg-quartiary flex h-screen flex-col justify-center">
+      <section className="flex h-screen flex-col justify-center bg-quartiary">
         <div className="container flex justify-end">
           <div className="text-balance text-primary 2xl:w-1/2">
             <h1 className="text-4xl font-black sm:text-6xl md:text-7xl">
