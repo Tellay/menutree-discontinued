@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <svg
-        className="absolute inset-0 -z-10 -mt-4 w-full rotate-180 fill-primary"
+        className="absolute inset-0 -z-10 w-full rotate-180 fill-primary"
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 1440 320"
       >

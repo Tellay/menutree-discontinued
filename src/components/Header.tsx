@@ -13,7 +13,7 @@ export async function Header() {
   ]
 
   return (
-    <header className="container sticky top-12 z-50">
+    <header className="container sticky top-8 z-50">
       <div className="flex h-[80px] items-center justify-between rounded-full bg-white px-6 py-3 shadow-lg shadow-black/20 md:px-12">
         <div className="flex items-center">
           <Link
