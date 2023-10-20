@@ -12,7 +12,7 @@ module.exports = {
       center: true,
       padding: '2rem',
       screens: {
-        '2xl': '1400px',
+        '2xl': '1500px',
       },
     },
     extend: {
@@ -34,6 +34,9 @@ module.exports = {
         tertiary: {
           DEFAULT: 'hsl(var(--tertiary))',
           foreground: 'hsl(var(--tertiary-foreground))',
+        },
+        quartiary: {
+          DEFAULT: 'hsl(var(--quartiary))',
         },
         destructive: {
           DEFAULT: 'hsl(var(--destructive))',
